@@ -1,5 +1,5 @@
 <?php
-	$conn = mysqli_connect("localhost", "cs377", "cs377_s18", "eval");
+	$conn = mysqli_connect("<DATABASE SERVER>", "<USERNAME>", "<PASSWORD>", "<DATABASE>");
 
 	if(!$conn) {
 		die("Connection Failed: " . mysqli_connect_error());

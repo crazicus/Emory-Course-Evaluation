@@ -1,0 +1,18 @@
+1,m/c,What is your year?
+2,m/c,What is your gender?
+3,m/c,What percentage of classes did you miss?
+4,m/c,What is your major?
+5,m/c,What is your expected grade for this course?
+6,m/c,What is your reason for taking this course?
+7,1-10,How well organized was the course?
+8,1-10,How concerned was the instructor with what students learned from the course?
+9,1-10,How clear were the grading criteria for the course?
+10,1-10,How enthusiastic was the instructor about the course material?
+11,1-10,How much did the course promote your progress on acquiring factual knowledge?
+12,1-10,How much did the course promote your progress on understanding basic principles and concepts?
+13,a/g,I would recommend this course to another student.
+14,a/g,I would recommend this instructor to another student.
+15,open,Comment on the strengths of the instructor.
+16,open,Comment on the weaknesses of the instructor.
+17,open,Comment on the strengths of the course.
+18,open,Comment on the weaknesses of the course.
